@@ -7,9 +7,9 @@
     "forward"
   ],
   "logo": "https://telegra.ph/file/5b5dd216d70b29c80e25e.jpg",
-  "success_url": "https://telegram.dog/Autoforward_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "success_url": "https://telegram.dog/ifilmsbotz",
+  "website": "https://github.com/ifilmsbotz/Auto-Forward-Bot",
+  "repository": "https://github.com/ifilmsbotz/Auto-Forward-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -35,7 +35,7 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/ifilmsbotz/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   }],
